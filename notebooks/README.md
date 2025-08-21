@@ -2,6 +2,8 @@
 
 This Google Colab notebook contains all the SQL queries used to perform the initial data analysis for the Unicorn Company project. The notebook serves as a record of the raw data investigation before proceeding to more in-depth research.
 
+**The Google Colab notebook is also available at this link:** [Unicorn SQL Analysis Notebook](https://colab.research.google.com/drive/11mEg4_fFlctXfFyTeYnhgJ90SZ-ybLcF?usp=sharing)
+
 ## 📋 Questions Answered
 
 The following questions were answered using SQL queries in this notebook:
@@ -23,10 +25,12 @@ The following questions were answered using SQL queries in this notebook:
 15. Display customer names for customers who are in the segment ‘Consumer’ or ‘Corporate.’ How many customers are there in total?
 16. Calculate the difference between the largest and smallest order quantities for product id ‘100.’
 17. Calculate the percent of products that are within the category ‘Furniture.’
-18. Display the manufacturers with more than 1 product in the product table, with their number of products.
-    *Note: Do not sort your results, and do not use distinct because it affects output order.*
-19. Show the product_subcategory and the total number of products in the subcategory, ordered from most to least.
-20. Show the product_id(s), the sum of quantities, where for each sale of product quantities is greater than or equal to 100.
+18. Display the number of product manufacturers with more than 1 product in the product table.
+19. Find what product manufacturers has more than 2 products.
+    Ex: A product with an identical product manufacturer can be considered a duplicate.
+20. Show the product_subcategory and the total number of products in the subcategory. Show the order from most to least products and then by product_subcategory name ascending.
+21. Show the product_id(s), the sum of quantities, where the total sum of it's product quantities is greater than or equal to 100.
+22. Show the product_id(s), the sum of quantities, where for each sale of product quantities is greater than or equal to 100.
 
 
 ## ⭐ Bonus question
