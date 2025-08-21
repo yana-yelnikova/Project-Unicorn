@@ -13,6 +13,14 @@ Through the analysis of the Unicorn company's database, I identified two primary
 
 **[Read the full, detailed analysis and all recommendations here.](analyses/Unicorn%20Company%20Report.pdf)**
 
+## 📝 Project Tasks & Analysis
+
+This project included three distinct phases of data analysis to answer a set of predefined business questions:
+
+* **[Spreadsheet Analysis (Unicorn dataset analysis.xlsx)](spreadsheets/README.md):** A series of questions were answered using Google Spreadsheets, demonstrating proficiency in pivot tables, logical functions, and conditional formatting.
+* **[SQL Queries (Unicorn_SQL.ipynb)](notebooks/README.md):** A more advanced set of questions were answered using SQL queries, showcasing skills in data aggregation, window functions, and complex data manipulation.
+* **[Data Visualization (Tableau)](presentation/Unicorn%20presentation.twbx):** A Tableau workbook was created to visualize key insights and trends, supporting data-driven decision-making.
+
 ## 📁 Repository Contents
 
 * `presentation/`: Contains the presentation with the analysis results, created in Tableau (the file `Unicorn presentation.twbx`). Tableau Story description (the file `Tableau Story Description Unicorn Project.pdf`).
