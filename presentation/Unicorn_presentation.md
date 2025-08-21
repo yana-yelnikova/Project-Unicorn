@@ -4,7 +4,7 @@ This section describes the dashboards and visualizations created in Tableau to p
 
 #### **Dashboard 1. Unicorn Overview**
 
-![Unicorn Overview Dashboard](screenshots/1_Unicorn_Overview.png)
+![Unicorn Overview Dashboard](../screenshots/1_Unicorn_Overview.png)
 
 This dashboard provides a high-level overview of the company's financial performance. It showcases the positive growth trends over four years, with both sales and profits increasing annually.
 
@@ -14,7 +14,7 @@ This dashboard provides a high-level overview of the company's financial perform
 
 #### **Dashboard 2. Sales Geography**
 
-![Sales Geography Dashboard](screenshots/2_Sales_Geography.png)
+![Sales Geography Dashboard](../screenshots/2_Sales_Geography.png)
 
 This dashboard visualizes the geographical distribution of sales and profitability across the United States.
 
@@ -23,7 +23,7 @@ This dashboard visualizes the geographical distribution of sales and profitabili
 
 #### **Dashboard 3. Discount Policy Analysis**
 
-![Discount Policy Analysis Dashboard](screenshots/3_Discount_Policy_Analysis.png)
+![Discount Policy Analysis Dashboard](../screenshots/3_Discount_Policy_Analysis.png)
 
 This dashboard dives deep into the root cause of the profitability issues: the discount policy.
 
@@ -34,7 +34,7 @@ This dashboard dives deep into the root cause of the profitability issues: the d
 
 #### **Dashboard 4. Client Analysis**
 
-![Client Analysis Dashboard](screenshots/4_Clients_Analysis.png)
+![Client Analysis Dashboard](../screenshots/4_Clients_Analysis.png)
 
 This dashboard focuses on customer behavior and growth opportunities.
 
@@ -43,7 +43,7 @@ This dashboard focuses on customer behavior and growth opportunities.
 
 #### **Dashboard 5. Profit Forecast Compared with 2018**
 
-![Profit Forecast Dashboard](screenshots/5_Profit_Forecast.png)
+![Profit Forecast Dashboard](../screenshots/5_Profit_Forecast.png)
 
 This interactive dashboard presents a predictive analysis to demonstrate the potential for growth.
 
@@ -55,7 +55,7 @@ This interactive dashboard presents a predictive analysis to demonstrate the pot
 
 #### **Dashboard 6. Profit Forecast for Unprofitable States**
 
-![Profit Forecast for Unprofitable States Dashboard](screenshots/6_Profit_Forecast_Unprofitable_States.png)
+![Profit Forecast for Unprofitable States Dashboard](../screenshots/6_Profit_Forecast_Unprofitable_States.png)
 
 This final dashboard provides a targeted forecast specifically for the unprofitable states.
 
