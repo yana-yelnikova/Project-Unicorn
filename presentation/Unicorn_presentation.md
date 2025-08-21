@@ -2,6 +2,8 @@
 
 This section describes the dashboards and visualizations created in Tableau to present the key findings of the project. The Tableau Story is structured to guide the viewer through the analysis and recommendations step-by-step.
 
+You can also view the online dashboard here: **[Tableau Public Link](https://public.tableau.com/views/Unicornview/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
+
 #### **Dashboard 1. Unicorn Overview**
 
 ![Unicorn Overview Dashboard](../screenshots/1_Unicorn_Overview.png)
