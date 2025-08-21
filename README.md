@@ -31,7 +31,14 @@ This project included three distinct phases of data analysis to answer a set of 
 
 ## 🚀 How to Review the Project
 
-To review the analysis results, it is recommended to open the **[Unicorn Company Report.pdf](analyses/Report.md)** file. You can also explore the live data and visualizations by opening the **[Unicorn presentation.twbx](presentation/Unicorn%20presentation.twbx)** file in Tableau.
+To review the analysis results, it is recommended to open the **[Unicorn Company Report.pdf](pdf_reports/Unicorn%20Company%20Report.pdf)** file.
+
+You can also explore the interactive dashboards and visualizations:
+
+* **View Online (Tableau Public):** Access the live, interactive dashboards directly in your browser via the **[Tableau Public Link](https://public.tableau.com/views/Unicornview/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
+* **Open in Tableau Desktop:** For the full experience, open the **[Unicorn presentation.twbx](presentation/Unicorn%20presentation.twbx)** file in Tableau Desktop.
+
+---
 
 ### **How to Open the Tableau Presentation (.twbx file)**
 
