@@ -11,7 +11,7 @@ Through the analysis of the Unicorn company's database, I identified two primary
 * **Discount Policy & Profitability:** I found that the company's discount policy was the main factor causing sales to result in losses in certain periods and states.
 * **Customer Base Growth:** My analysis showed that while customer loyalty is high, the number of new customers is declining, which poses a risk to long-term growth.
 
-**[Read the full, detailed analysis and all recommendations here.](analyses/Unicorn%20Company%20Report.pdf)**
+**[Read the full, detailed analysis and all recommendations here.](analyses/Report.md)**
 
 ## 📝 Project Tasks & Analysis
 
@@ -31,7 +31,7 @@ This project included three distinct phases of data analysis to answer a set of 
 
 ## 🚀 How to Review the Project
 
-To review the analysis results, it is recommended to open the **[Unicorn Company Report.pdf](analyses/Unicorn%20Company%20Report.pdf)** file. You can also explore the live data and visualizations by opening the **[Unicorn presentation.twbx](presentation/Unicorn%20presentation.twbx)** file in Tableau.
+To review the analysis results, it is recommended to open the **[Unicorn Company Report.pdf](analyses/Report.md)** file. You can also explore the live data and visualizations by opening the **[Unicorn presentation.twbx](presentation/Unicorn%20presentation.twbx)** file in Tableau.
 
 ### **How to Open the Tableau Presentation (.twbx file)**
 
