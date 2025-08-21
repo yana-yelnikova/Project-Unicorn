@@ -51,7 +51,7 @@ This interactive dashboard presents a predictive analysis to demonstrate the pot
 * **Key Forecasts:**
     * An increase of **100 customers** is projected to grow annual profit by **$13,412** (a **14.4% increase** compared to 2018).
     * Eliminating discounts above 20% would generate an additional profit of over **$240K**, more than doubling the company's profitability by **2.5 times**.
-* **Interactivity:** The dashboard allows users to adjust the number of new customers and the maximum discount percentage using the parameters, and you can also change the state for analysis through the filter.
+* **Interactivity:** The dashboard allows users to adjust the number of new customers and the maximum discount percentage using the parameters.
 
 #### **Dashboard 6. Profit Forecast for Unprofitable States**
 
