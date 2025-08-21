@@ -36,6 +36,14 @@ This project included three distinct phases of data analysis to answer a set of 
     * `Unicorn full join.csv`: The combined dataset in CSV format.
 * **`screenshots/`**: Contains all dashboard and visualization images used in the project documentation.
 
+## 🛠️ Technology Stack
+
+* **Data Analysis:** SQL, Google Colab, Google Sheets (Spreadsheets)
+* **Data Visualization:** Tableau
+* **Version Control:** Git / GitHub
+* **Reporting:** Markdown
+* **Data Source:** CSV files
+
 
 ## 🚀 How to Review the Project
 
