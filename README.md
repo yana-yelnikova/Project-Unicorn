@@ -54,16 +54,3 @@ You can also explore the interactive dashboards and visualizations:
 * **View Online (Tableau Public):** Access the live, interactive dashboards directly in your browser via the **[Tableau Public Link](https://public.tableau.com/views/Unicornview/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
 * **Open in Tableau Desktop:** For the full experience, open the **[Unicorn presentation.twbx](presentation/Unicorn%20presentation.twbx)** file in Tableau Desktop.
 * **View Presentation (Markdown):** Read the full project presentation and its narrative in Markdown format in the **[Unicorn presentation](presentation/Unicorn_presentation.md)** file.
-
----
-
-### **How to Open the Tableau Presentation (.twbx file)**
-
-1.  **Install Tableau Desktop:** Make sure you have Tableau Desktop installed.
-2.  **Open the File:** Launch Tableau Desktop.
-3.  Go to the **"File"** menu and select **"Open..."**.
-4.  Navigate to the `presentation/` folder in your repository and select the **`Unicorn presentation.twbx`** file.
-5.  **View Slide Descriptions:** For a detailed narrative of each slide, open the **[Tableau Story Description Unicorn Project.pdf](presentation/Tableau%20Story%20Description%20Unicorn%20Project.pdf)** file.
-6.  **Enter Presentation Mode:** Once the file is open, go to the story tab named "Unicorn Company" and press the **F7** key to enter full-screen presentation mode.
-
-After opening the `.twbx` file, you will be able to view the dashboards, explore the data, and interact with the visualizations.
