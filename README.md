@@ -21,14 +21,20 @@ This project included three distinct phases of data analysis to answer a set of 
 * **[SQL Queries (Unicorn_SQL)](notebooks/README.md):** A more advanced set of questions were answered using SQL queries, showcasing skills in data aggregation, window functions, and complex data manipulation.
 * **[Data Visualization (Tableau)](presentation/Unicorn_presentation.md):** A Tableau workbook was created to visualize key insights and trends, supporting data-driven decision-making.
 
-## 📁 Repository Contents
+### **📁 Repository Contents**
 
-* `presentation/`: Contains the presentation with the analysis results, created in Tableau (the file `Unicorn presentation.twbx`). Tableau Story description (the file `Unicorn_presentation.md`).
-* `spreadsheets/`: Contains data exported from Google Sheets in .xlsx format (the file `Unicorn dataset analysis.xlsx`).
-* `notebooks/`: Google Colab notebook with the analysis code (`Unicorn_SQL.ipynb`).
-* `analyses/`: Contains a PDF version of the report (`Unicorn Company Report.pdf`).
-* `data/`: Contains the combined tables in CSV format (`Unicorn full join.csv`).
-* `screenshots/`: Contains all the dashboard and visualization images used in the project documentation.
+* **`presentation/`**: Contains materials for the presentation of the results:
+    * `Unicorn presentation.twbx`: The Tableau Workbook file with dashboards and visualizations.
+    * `Unicorn_presentation.md`: The presentation with a detailed narrative for each slide in Markdown format.
+* **`spreadsheets/`**: Contains the analysis file in Google Sheets format:
+    * `Unicorn dataset analysis.xlsx`: The file with answers to questions solved using functions and pivot tables.
+* **`notebooks/`**: Contains the Google Colab notebook with the code:
+    * `Unicorn_SQL.ipynb`: The notebook with SQL queries used for the initial data analysis.
+* **`analyses/`**: Contains the main project report and detailed analysis:
+    * `Report.md`: The report file in Markdown format, which contains detailed conclusions, dashboard analysis, and recommendations.
+* **`data/`**: Contains combined data:
+    * `Unicorn full join.csv`: The combined dataset in CSV format.
+* **`screenshots/`**: Contains all dashboard and visualization images used in the project documentation.
 
 
 ## 🚀 How to Review the Project
