@@ -23,7 +23,7 @@ This project included three distinct phases of data analysis to answer a set of 
 
 ## 📁 Repository Contents
 
-* `presentation/`: Contains the presentation with the analysis results, created in Tableau (the file `Unicorn presentation.twbx`). Tableau Story description (the file `Tableau Story Description Unicorn Project.pdf`).
+* `presentation/`: Contains the presentation with the analysis results, created in Tableau (the file `Unicorn presentation.twbx`). Tableau Story description (the file `Unicorn_presentation.md`).
 * `spreadsheets/`: Contains data exported from Google Sheets in .xlsx format (the file `Unicorn dataset analysis.xlsx`).
 * `notebooks/`: Google Colab notebook with the analysis code (`Unicorn_SQL.ipynb`).
 * `analyses/`: Contains a PDF version of the report (`Unicorn Company Report.pdf`).
@@ -39,7 +39,7 @@ You can also explore the interactive dashboards and visualizations:
 
 * **View Online (Tableau Public):** Access the live, interactive dashboards directly in your browser via the **[Tableau Public Link](https://public.tableau.com/views/Unicornview/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
 * **Open in Tableau Desktop:** For the full experience, open the **[Unicorn presentation.twbx](presentation/Unicorn%20presentation.twbx)** file in Tableau Desktop.
-* **View Presentation (Markdown):** Read the full project presentation and its narrative in Markdown format in the **[Unicorn presentation.md](presentation/Unicorn_presentation.md)** file.
+* **View Presentation (Markdown):** Read the full project presentation and its narrative in Markdown format in the **[Unicorn presentation](presentation/Unicorn_presentation.md)** file.
 
 ---
 
