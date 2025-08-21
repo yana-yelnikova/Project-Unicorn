@@ -2,6 +2,8 @@
 
 This folder contains the **`Unicorn dataset analysis.xlsx`** file, which was used for the second part of the project.
 
+**The Google Sheets file is also available at this link:** [Unicorn Dataset Analysis](https://docs.google.com/spreadsheets/d/1DyJA0PwklEnJrPSyfb_p3dIDImqxOoqytvLtboRwa8Y/edit?usp=sharing)
+
 ## 🎯 Project Goal
 
 The primary goal was to answer specific questions by using Google Spreadsheets as a data analysis tool. This step served as a foundation for deeper, unguided data research, providing initial insights into the dataset.
